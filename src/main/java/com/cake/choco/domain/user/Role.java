@@ -1,4 +1,4 @@
-package com.cake.choco.domain;
+package com.cake.choco.domain.user;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

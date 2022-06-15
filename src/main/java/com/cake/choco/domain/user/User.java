@@ -1,4 +1,4 @@
-package com.cake.choco.domain;
+package com.cake.choco.domain.user;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
