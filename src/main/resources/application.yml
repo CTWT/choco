@@ -5,11 +5,14 @@ spring:
     username: choco
     password: choco1234
   jpa:
+    open-in-view: true
     hibernate:
       ddl-auto: create
+      use-new-id-generate-mappings: false
+    show-sql: true
     properties:
       hibernate.format_sql: true
-    show-sql: true
 
   thymeleaf:
     cache: false
+
